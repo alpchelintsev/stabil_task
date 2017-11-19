@@ -1,0 +1,7 @@
+#!/bin/sh
+
+./stabil_task < input.txt > output.txt
+gnuplot xz1.txt
+gnuplot xz2.txt
+gnuplot xz3.txt
+gnuplot u1.txt

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+g++ stabil_task.cpp -o stabil_task -lm
+
